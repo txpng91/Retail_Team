@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Retail Team</string>
+    <string name="btnRetail">Retail Team</string>
+    <string name="btnAboutUs">About Us</string>
+    <string name="btnShop">Shop</string>
+    <string name="txtSales">Selected products are 50% to 60% on sale!</string>
+    <string name="btnStartShop">Start Shopping</string>
+    <string name="our_purpose">Our Purpose</string>
+    <string name="our_goals">Our Goals</string>
+    <string name="our_vision">Our Vision</string>
+    <string name="imgLarge">Shop Now!</string>
+    <string name="paragraph1">The overview is to sell urban clothing apparel in a simple to use application that focuses on ease of use so that users can find and buy items form anywhere without leaving there homes especially during these times where staying home is important . We believe our app will do better than the competition due to use its simplicity and ease of use and customers will be able to find and order their items as fast as possible.</string>
+    <string name="paragraph2">Our goal is to attract users and to gain feedback from our users to make the most reliable and easy to use application. So that we can get best possible review in the app store (5 stars) so that can attract more users and grow the application. Our personal goal is best looking app that we can so when people look at our app, they believe it is high quality and to use feed back to better our skills as developers.</string>
+    <string name="paragraph3">All genders are welcome on our app because we believe they are most likely to use an app to buy clothing and more however our app welcomes everyone of all ages over 18 because of payment info and other legal reasons. Our app is a simple retail app so there is no specific education level needed however because of the age bracket most will have a high school education or higher. Our audiences mostly work in a urban environment who would want to start their own business. Their hobbies would be things like gaming art, music ect. .The income of our average user is 25K a year up as clothing as gotten inexpensive in recent years.</string>
+    <string name="top1">$19.95</string>
+    <string name="top2">$15.99</string>
+    <string name="top3">$24.99</string>
+    <string name="top4">$21.00</string>
+    <string name="bottom1">$20.00</string>
+    <string name="bottom2">$19.99</string>
+    <string name="bottom3">$17.99</string>
+    <string name="bottom4">$22.00</string>
+    <string name="girltop1">15.99</string>
+    <string name="girltop2">$9.99</string>
+    <string name="girltop3">$12.99</string>
+    <string name="girltop4">$20.00</string>
+    <string name="girlbottom1">$24.99</string>
+    <string name="girlbottom2">$19.99</string>
+    <string name="girlbottom3">$34.99</string>
+    <string name="girlbottom4">$27.99</string>
+</resources>
